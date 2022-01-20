@@ -4,7 +4,7 @@
 
 - 🔭 Estou a procura ...
 - 🌱 Estudando Programação ...
-- 💻Perfil em contrução
+- 💻Perfil em construção
 -->
 
 <div align="center">
